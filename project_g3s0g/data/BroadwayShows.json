@@ -1,0 +1,47 @@
+{
+    "Shows": [
+        {
+            "Description": "|The story of America then, told by America now.|",
+            "Rating": 1,
+            "Title": "Hamilton",
+            "ID": 1
+        },
+        {
+            "Description": "|Satire on corruption in the administration of criminal justice.|",
+            "Rating": 1,
+            "Title": "Chicago",
+            "ID": 2
+        },
+        {
+            "Description": "|Highlighting the importance of healthy and mutual female support systems.|",
+            "Rating": 1,
+            "Title": "Wicked",
+            "ID": 3
+        },
+        {
+            "Description": "|A baker and waitress in an abusive relationship with her husband.|",
+            "Rating": 1,
+            "Title": "Waitress the Musical",
+            "ID": 4
+        },
+        {
+            "Description": "Comedy Act created by John Mulaney and Nick Kroll",
+            "Rating": 4,
+            "Title": "The Oh, Hello Show",
+            "ID": 5
+        },
+        {
+            "Description": "Musical based on the Disney Movie",
+            "Rating": 3,
+            "Title": "The Lion King",
+            "ID": 6
+        },
+        {
+            "Description": "hi",
+            "Rating": 4,
+            "Title": "hello",
+            "ID": 7
+        }
+    ],
+    "name": "My Broadway Show List"
+}
